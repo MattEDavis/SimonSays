@@ -1,1 +1,1 @@
-# MEDSimonSays
+# SimonSays
